@@ -79,6 +79,7 @@ This software was developed using
 ## Entity Relationship Diagram
 
 ![](images/User%20Role%20ER%20Diagram.jpg)
+![](images/Quiz%20ER%20Diagram.jpg)
 # Database Design
 
 Tables in Database
