@@ -74,51 +74,48 @@ This software was developed using
 
 ## Flow of Control
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.005.png)
-
+![](images/Flowchart%20of%20Application.jpg)
+f
 ## Entity Relationship Diagram
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.006.png)
+![](images/User%20Role%20ER%20Diagram.jpg)
 # Database Design
 
 Tables in Database
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.007.png)
+![](images/Tables%20in%20Database.jpg)
 
 Table - User
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.008.png)
+![](images/Users.jpg)
 
 Table - Role
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.009.png)
+![](images/Roles.jpg)
 
 Table - User\_Role
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.010.png)
+![](images/User_Role.jpg)
 
 Table - Category
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.011.png)
+![](images/Category.jpg)
 
 Table - Quiz
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.012.png)
+![](images/Quiz.jpg)
 
 
 
 Table - Question
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.013.png)
+![](images/Questions.jpg)
 
-Table - Result
-
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.014.png)
 
 
 ## Relationships Among Table within Database
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.015.png)
+![](images/Database%20Design.jpg)
 
 # Demonstration Images of the Software
 
@@ -134,7 +131,8 @@ Table - Result
   - Email
   - Phone Number
 - All entries are validated and appropriate errors will be given
-- Accounts are authenticated using JWT Authentication![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.016.png)
+- Accounts are authenticated using JWT Authentication
+- ![](images/Registration%20Page.png)
 
 
 ### Login Page
@@ -149,20 +147,20 @@ Table - Result
 - All entries are validated and appropriate errors will be given
 - Accounts are authenticated using JWT Authentication
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.017.png)
+![](images/Log%20in%20Page.png)
 
 
 ### Welcome Page of Admin-Side
 - Users: Professors or anyone who has logged in with an Admin Profile
 
-![](images/welcome.jpeg)
+![](images/Admin%20Welcome%20Page.png)
 
 
 ### Viewing Your Profile Details
 - Users: Professors or anyone who has logged in with an Admin Profile
 - How to Get Here: Click on the ‘*Profile*’ button from the menu on the left
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.018.png)
+![](images/Admin%20Profile%20Details.png)
 
 
 ### Adding a Subject
@@ -252,28 +250,20 @@ Table - Result
 ![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.024.png)![](upda.jpeg)
 
 
-### Viewing the Result for a Quiz as a Professor
-- Users: Professors or anyone who has logged in with an Admin Profile
-- How to Get Here: From the “Quizzes” page, click on the “*View Result*” button below the name of the quiz you would like to see the results
-- The results will be shown student-wise in a tabular manner
-
-![](images/respro.jpeg)
-
-
 ## Student Profile
 
 ### View All Quizzes
 - Users: Students
 - How to Get Here: Click on the ‘*All Quizzes*’ button from the menu on the left
 
-![](images/vall.jpeg)
+![](images/Available%20Quizes.png)
 
 
-### View Quizzes of a Particular Subject
+### View Quizzes of a Particular Category
 - Users: Students
-- How to Get Here: Click on the subject name button from the menu on the left. For example, if you would like to view the quizzes available in the subject, “*MAT\_3003 complex*”, click on the button, “*MAT\_3003 complex*”
+- How to Get Here: Click on the subject name button from the menu on the left. For example, if you would like to view the quizzes available in the catergory, “*Programming Exams*”, click on the button, “*Programming Exams*”
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.025.png)
+![](images/Specific%20Category%20Quiz.png)
 
 
 ### Starting a Quiz
@@ -282,7 +272,7 @@ Table - Result
 - Instructions for attempting the quiz will be shown on starting the quiz
 - To start answering questions, click on the “*Start Quiz*” button from the instructions page
 
-![](images/s4.jpeg)
+![](images/Quiz%20Instruction%20Page.png)
 
 - A confirmation pop-up will be displayed to start the quiz.
 - Click on the “*Start*” button to start. Else, click on the “*No*” button
@@ -292,15 +282,10 @@ Table - Result
 - It is to be noted that the quiz will Auto Submit when the timer on the right side of the screen reaches 0
 
 
-![](images/s2.jpeg)
+![](images/Ongoing%20Quiz%20Page.png)
 
 - The quiz will auto submit will submit automatically if tab is switched to ensure ethical attempts of the quiz
 - On submission, the results of the quiz are shown as a summary
 
 ![](images/s3.jpeg)
 
-### Viewing the Result for a Quiz
-- Users: Students
-- How to Get Here: From the “Available Quizzes” page, click on the “*See Results*” button below the name of the quiz you would like to see the results for
-
-![](Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.026.png)
