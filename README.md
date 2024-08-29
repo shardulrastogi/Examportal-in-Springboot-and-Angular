@@ -83,7 +83,7 @@ f
 
 Tables in Database
 
-![](images/Tables%20in%20Database.jpg)
+![](images/Tables%20in%20database.png)
 
 Table - User
 
@@ -287,5 +287,5 @@ Table - Question
 - The quiz will auto submit will submit automatically if tab is switched to ensure ethical attempts of the quiz
 - On submission, the results of the quiz are shown as a summary
 
-![](images/s3.jpeg)
+![](images/Result%20Page.png)
 
