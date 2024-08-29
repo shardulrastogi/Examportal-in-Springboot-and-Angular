@@ -75,7 +75,7 @@ This software was developed using
 ## Flow of Control
 
 ![](images/Flowchart%20of%20Application.jpg)
-f
+
 ## Entity Relationship Diagram
 
 ![](images/User%20Role%20ER%20Diagram.jpg)
@@ -172,9 +172,9 @@ Table - Question
   - Name of the subject
   - Description of the subject
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.019.png)
+![](images/addSub1.png)
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.020.png)
+![](images/addSub2.png)
 
 
 ### Viewing Created Subjects
@@ -182,17 +182,7 @@ Table - Question
 - How to Get Here: Click on the ‘*Subjects*’ button from the menu on the left
 
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.021.png)
-
-
-### Deleting a Created Subject
-- Users: Professors or anyone who has logged in with an Admin Profile
-- How to Get Here: Click on the ‘*Delete*’ button marked in red present on the right of the subject name
-
-
-![](images/delete.jpeg)
-
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.023.png)
+![](images/Admin%20Add%20new%20Category.png)
 
 
 ### Adding a Quiz
@@ -206,9 +196,9 @@ Table - Question
   - Subject that the quiz is part of
   - ‘Publish Status’ toggle will control whether the student is able to view the quiz on their profile
 
-![](images/add1.jpeg)
-![](images/add2.jpeg)
-![](images/add3.jpeg)
+![](images/addquiz1.png)
+![](images/addquiz2.png)
+![](images/addquiz3.png)
 
 
 ### Adding Questions to a Quiz
@@ -227,11 +217,11 @@ Table - Question
   - Repeat this process to add further questions
 - Questions can be updated after adding by clicking on the ‘*Update*’ button within the ‘*Questions*’ *Page*
 
-![](images/aq1.jpeg)
-![](images/aq2.jpeg)
-![](images/aq3.jpeg)
-![](images/aq4.jpeg)
-![](images/aq5.jpeg)
+![](images/addques1.png)
+![](images/addques2.png)
+![](images/addques3.png)
+![](images/addques4.png)
+![](images/addques.png)
 
 
 ##
@@ -240,14 +230,14 @@ Table - Question
 - Users: Professors or anyone who has logged in with an Admin Profile
 - How to Get Here: Click on the ‘*Quizzes*’ button from the menu on the left
 
-![](images/viewcreate.jpeg)
+![](images/addquiz3.png)
 
 
 ### Updating Quiz Information
 - Users: Professors or anyone who has logged in with an Admin Profile
 - How to Get Here: Click on the ‘*Update*’ button from the row of buttons below the name of a created quiz within the Quizzes Page
 
-![](images/Aspose.Words.96c9ccab-5ba4-4a7f-8856-f6f612851f78.024.png)![](upda.jpeg)
+![](images/updateQuizInfo.png)
 
 
 ## Student Profile
@@ -277,7 +267,7 @@ Table - Question
 - A confirmation pop-up will be displayed to start the quiz.
 - Click on the “*Start*” button to start. Else, click on the “*No*” button
 
-![](images/s1.jpeg)
+![](images/start%20quiz.png)
 
 - It is to be noted that the quiz will Auto Submit when the timer on the right side of the screen reaches 0
 
