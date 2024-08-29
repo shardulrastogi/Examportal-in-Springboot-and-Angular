@@ -221,7 +221,7 @@ Table - Question
 ![](images/addques2.png)
 ![](images/addques3.png)
 ![](images/addques4.png)
-![](images/addques.png)
+![](images/addques5.png)
 
 
 ##
