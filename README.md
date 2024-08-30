@@ -154,7 +154,7 @@ Table - Question
 ### Welcome Page of Admin-Side
 - Users: Professors or anyone who has logged in with an Admin Profile
 
-![](images/Admin%20Welcome%20Page.png)
+![](images/dev.png)
 
 
 ### Viewing Your Profile Details
